@@ -6,13 +6,20 @@ class Main{
         {
             for(space=i;space<=4;space++)
             {
-                System.out.print(" ");
+               System.out.print(" ");
             }
             for(j=1;j<=i;j++)
             {
+                if(i==4&&(j==2||j==3)||i==3&&j==2)
+                {
+                    System.out.print("_");
+                }
+            else
                 System.out.print(i);
             }
                 System.out.println();
-            }
+
+         }
+
     }  
 }

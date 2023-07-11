@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Loop1{
+class Main{
     public static void main(String[] args) {
         int i,space,j;
         for (i=5;i>=1;i--)

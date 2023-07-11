@@ -14,8 +14,9 @@ class Main{
                 System.out.print(j+" ");
                 }
             }
-         }
+         
         System.out.println();
+        }
     }
-  }
+  
 }

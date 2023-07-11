@@ -16,8 +16,8 @@ class Main{
 	        }
 	    }
 	        if(!flag)
-	            System.out.println(n+" is a non prime");
+	            System.out.println(n+" is a prime");
 	        else
-		   System.out.println(n+" is a prime");
+		   System.out.println(n+" is non prime");
 	}
 }

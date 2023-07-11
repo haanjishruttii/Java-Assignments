@@ -1,6 +1,6 @@
 //Question-15
 
-import java.uti.Scanner;
+import java.util.Scanner;
 class Main{
 	public static void main(String args[]){
 	    char a=97, z=122;
